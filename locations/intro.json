@@ -1,0 +1,14 @@
+{
+	"name": "Welcome Area",
+	"description": "You see see four computers screens in front of you. A door is behind you.",
+	"commands": {
+		"move": {
+			"north": [
+				{"goto": "computer"}
+			],
+			"south": [
+				{"goto": "computer"}
+			]
+		}
+	}
+}

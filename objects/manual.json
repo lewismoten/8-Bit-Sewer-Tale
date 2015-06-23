@@ -1,0 +1,11 @@
+{
+	"name": "Manual",
+	"description": "An instruction manual.",
+	"options": {
+		"read":
+			{"describe": "Just do stuff. MOVE xxx, READ xxx, etc."}
+			
+		}
+
+	}
+}

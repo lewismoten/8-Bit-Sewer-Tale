@@ -1,3 +1,5 @@
+![8-Bit-Sewer-Tale: text adventure in a sewer](docs/images/social-preview.png)
+
 # 8 Bit Sewer Tale
 
 The start of a JavaScript text-based adventure game. A page shows a location's title and description and has a box for typing commands. Locations are JSON files in [locations/](locations/) and objects are in [objects/](objects/).
